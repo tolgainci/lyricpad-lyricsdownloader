@@ -8,8 +8,8 @@ When set correctly, the script reads the names of your mp3 files, finds the lyri
 
 Dependencies:
 
-1.Python3
-2.BeautifulSoup
-3.Requests
-4.Mutagen
+1.Python3<br />
+2.BeautifulSoup<br />
+3.Requests<br />
+4.Mutagen<br />
 5. Glob
