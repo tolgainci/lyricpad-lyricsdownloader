@@ -4,7 +4,7 @@ This script is based on Anoop S's LyricsDownloader that you can find here: https
 
 This script downloads lyrics for your mp3 files from the genius website and saves them as txt files compatible with LyricPad. Your mp3 file names should be in the format band-name-song-name.mp3 with a dash in between each word. You can lookup the exact name from the genius website at https://genius.com/ to be sure. You can set your mp3 folder and lyrics folder paths in the keywords section. 
 
-When set correctly, the script reads the names of your mp3 files, finds the lyrics for them on the genius website and saves them in your lyrics folder as txt files. It also adds @!title and @!duration tags at the start of the file, taking the duration from the mp3 file. This tag is important for scrolling at the right time in LyricPad.
+When set correctly, the script reads the names of your mp3 files, finds the lyrics for them on the genius website and saves them in your lyrics folder as txt files. It also adds @!title and @!duration tags at the start of the file, taking the title and duration from the mp3 file. The duration tag is important for scrolling at the right time in LyricPad.
 
 Dependencies:
 
