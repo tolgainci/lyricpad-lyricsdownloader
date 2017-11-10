@@ -1,6 +1,6 @@
 # Lyrics Downloader for LyricPad
 
-![](LyricsPad-LyricsDownloader.png)
+![](Lyricpad-LyricsDownloader.png)
 
 This script is based on Anoop S's LyricsDownloader that you can find here: https://github.com/anoopajay91/LyricsDownloader It needs user input, works one file at a time, and uses azlyrics which doesn't work anymore. I modified the script to run in batch mode without user input and switched the lyrics website to genius.
 
