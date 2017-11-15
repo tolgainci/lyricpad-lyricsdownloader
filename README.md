@@ -14,4 +14,3 @@ Dependencies:
 2.BeautifulSoup<br />
 3.Requests<br />
 4.Mutagen<br />
-5. Glob
